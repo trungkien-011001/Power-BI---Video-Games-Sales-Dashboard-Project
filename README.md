@@ -9,7 +9,7 @@ This project is about visualizing video games sales on a Dashboard for presentat
 - To apply data visualizing techniques to make a Dashboard of Video Games Sales Charts and Graphs
 ## 3. Step-to-step Process:
 - Collecting data from the data source
-- Importing downloaded data to MS Power BI
+- Importing downloaded data into MS Power BI
 - Using Power Query to calculate and standardize data
 - Building a Dashboard
 - Exporting .pbi and .png file
