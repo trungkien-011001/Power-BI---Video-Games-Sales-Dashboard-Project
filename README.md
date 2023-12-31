@@ -14,4 +14,4 @@ This project is about visualizing video games sales on a Dashboard for presentat
 - Building a Dashboard
 - Exporting .pbi and .png file
 ## 4. Products:
-- Dashboard in .pbi and .png file (uploaded file on Github)
+- A Dashboard in .pbi and .png file (uploaded file on Github)
