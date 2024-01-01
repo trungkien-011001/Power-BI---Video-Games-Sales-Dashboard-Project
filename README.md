@@ -1,5 +1,5 @@
 # POWER BI DATA VISUALIZATION OF VIDEO GAMES SALES DATASET
-This project is about visualizing video games sales on a Dashboard for presentation and communication.
+This project is about visualizing video games sales dataset on a Dashboard by Power BI.
 
 ## 1. About Project:
 - The dataset contains information about Name of the games, Games Platforms, Published Year, Game Genres, Sales all over the world
