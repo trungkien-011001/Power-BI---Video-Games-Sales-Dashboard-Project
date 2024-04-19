@@ -6,7 +6,7 @@ This project is about visualizing video games sales dataset on a Dashboard by Po
 - Data source: https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales/data
 - Platform: MS Power BI
 ## 2. Project Aim:
-- To apply data visualizing techniques to make a Dashboard of Video Games Sales Charts and Graphs
+- To apply data visualization techniques to make a Dashboard of Video Games Sales Charts and Graphs
 ## 3. Step-to-step Process:
 - Collecting data from the data source
 - Importing downloaded data into MS Power BI
@@ -14,4 +14,4 @@ This project is about visualizing video games sales dataset on a Dashboard by Po
 - Building a Dashboard
 - Exporting .pbi and .png file
 ## 4. Products:
-- A Dashboard in .pbi and .png file (uploaded file on Github)
+- A Dashboard in .pbi and .png file (uploaded files on Github)
